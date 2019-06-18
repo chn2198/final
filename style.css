@@ -73,3 +73,16 @@ ul li.item5 .bg{
   background: url(https://live.staticflickr.com/65535/48081031801_0b376b5c38_b.jpg);
   background-size: cover;
 }
+.name {
+  color: #ffffff;
+  position: ;
+}
+
+.word{
+  position: absolute;
+  font-family: 微軟正黑體;
+  font-size: 40px;
+  color: #fff;
+  left: 42%;
+  top: 80%;
+}
